@@ -6,10 +6,10 @@
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com)](https://www.youtube.com)
 
 ### About me
-I'm a {backend, frontend and mobile} developer and technical instructor.
+Apaixonado por desenvolvimento web, desktop e mobile desde os 12 anos de idade.Quando não está trabalhando, é IGL e Awper do time de CS:GO da Treinaweb. Até passou em uma peneira do Flamengo, mas preferiu estudar Python.
 
 
-(![image](https://user-images.githubusercontent.com/93783509/140577739-c86b50d1-9ae9-4662-a67c-6035d14c9b0b.png)
+![image](https://user-images.githubusercontent.com/93783509/140577739-c86b50d1-9ae9-4662-a67c-6035d14c9b0b.png)
 
 
 
