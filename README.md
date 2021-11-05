@@ -9,7 +9,7 @@
 I'm a {backend, frontend and mobile} developer and technical instructor.
 
 
-![site 2](![image](https://user-images.githubusercontent.com/93783509/140577739-c86b50d1-9ae9-4662-a67c-6035d14c9b0b.png))
+![site 2](![image](https://user-images.githubusercontent.com/93783509/140577739-c86b50d1-9ae9-4662-a67c-6035d14c9b0b.png)
 
 
 
