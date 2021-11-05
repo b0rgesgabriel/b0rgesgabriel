@@ -54,7 +54,7 @@ Apaixonado por desenvolvimento web, desktop e mobile desde os 12 anos de idade.Q
 
 <p align="center">
 &nbsp; <a href="https://" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>
-&nbsp; <a href="https://www.instagram.com/gabriel.borgees1/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>
+&nbsp; <a href="https://www.instagram.com/gabriel_borgees1/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>
 &nbsp; <a href="https://www.linkedin.com/in/gabriel-borges-a01844225/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="evandro:bielmborges2009@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50" /></a>
 </p>
