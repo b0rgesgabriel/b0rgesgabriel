@@ -45,8 +45,6 @@ I'm a {backend, frontend and mobile} developer and technical instructor.
 
 
 
-[![b0rgesgabriel Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b0rgesgabrielk&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/b0rgesgabriel/github-readme-stats)
-
 
 
 
