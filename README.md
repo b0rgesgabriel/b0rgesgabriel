@@ -20,7 +20,7 @@ Atualmente estou me "atualizando" na área de desenvolvimento.Quando não está 
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-
+<h1>Developer Front end & Back end</h1>
 
 - 🔭 &nbsp; I’m currently learning Flutter Application Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
@@ -58,3 +58,9 @@ Atualmente estou me "atualizando" na área de desenvolvimento.Quando não está 
 &nbsp; <a href="https://www.linkedin.com/in/gabriel-borges-a01844225/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="evandro:bielmborges2009@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50" /></a>
 </p>
+
+
+
+
+
+
