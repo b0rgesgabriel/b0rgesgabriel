@@ -14,7 +14,7 @@ Atualmente estou me "atualizando" na área de desenvolvimento.Quando não está 
 
 
 
-<h2> Hey there! . <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Hey there! . <img src="https://www.contabeis.com.br/assets/img/news/a_6443_f337d999d9ad116a7b4f3d409fcc6480.jpg" width="25"></h2>
 
 
 
