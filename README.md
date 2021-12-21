@@ -6,6 +6,7 @@
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com)](https://www.youtube.com)
 
 ### About me
+<h1>Developer Front end & Back end</h1>
 Atualmente estou me "atualizando" na área de desenvolvimento.Quando não está trabalhando, é jogador de CSGO. Até passou em uma peneira do Flamengo, mas preferiu fazer faculdade de engenharia.
 
 
