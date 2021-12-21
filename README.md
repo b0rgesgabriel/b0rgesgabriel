@@ -14,7 +14,7 @@ Atualmente estou me "atualizando" na área de desenvolvimento.Quando não está 
 
 
 
-<h2> Hey there! . <img src="https://www.contabeis.com.br/assets/img/news/a_6443_f337d999d9ad116a7b4f3d409fcc6480.jpg" width="25"></h2>
+<h2> Hey there! . <img src="https://a-static.mlcdn.com.br/1500x1500/capa-para-estepe-ecosport-crossfox-emoji-cn83-lorben/focalouca/1990/7ee7369290f41b2db6e3198e5721fc9a.jpg" width="25"></h2>
 
 
 
