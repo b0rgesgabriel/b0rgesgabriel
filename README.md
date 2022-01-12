@@ -34,10 +34,9 @@ Atualmente estou me "atualizando" na área de desenvolvimento.Quando não está 
 
 
 
-- 💻 &nbsp; Java | C++
-- 🌐 &nbsp; Android | HTML | CSS | JavaScript
-- 🛢 &nbsp; MySQL | Firebase 
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
+- 💻 &nbsp; Java | C++ | JavaScript | CSS | HTML | TypeScript | NodeJs | 
+- 🛢 &nbsp; MySQL | Firebase | Insomnia.
+- 🔧 &nbsp; Visual Studio code | Git
 
 
 
@@ -54,10 +53,10 @@ Atualmente estou me "atualizando" na área de desenvolvimento.Quando não está 
 
 
 <p align="center">
-&nbsp; <a href="https://" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>
+&nbsp; <a href="https://twitter.com/otaldoborges8" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>
 &nbsp; <a href="https://www.instagram.com/gabriel_borgees1/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>
 &nbsp; <a href="https://www.linkedin.com/in/gabriel-borges-a01844225/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="evandro:bielmborges2009@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50" /></a>
+&nbsp; <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50" /></a>
 </p>
 
 
