@@ -45,6 +45,15 @@ Atualmente estou me "atualizando" na área de desenvolvimento.Quando não está 
 
 
 
+<p align="left">
+<img width="420em" src="https://github-readme-stats.vercel.app/api?username=b0rgesgabriel&show_icons=true&theme=vision-friendly-dark" alt="b0rgesgabriel' stats"/>
+<img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b0rgesgabriel
+&layout=compact&theme=vision-friendly-dark" alt="b0rgesgabriel
+'s most languages"/>
+</p>
+
+
+
 
 
 
