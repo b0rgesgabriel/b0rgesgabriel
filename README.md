@@ -41,7 +41,6 @@ Atualmente estou me "atualizando" na área de desenvolvimento.Quando não está 
 
 <br>
 <p align="left">
-<img width="420em" src="https://github-readme-stats.vercel.app/api?username=Evandromck&show_icons=true&theme=vision-friendly-dark" alt="Evandromck's stats"/>
 <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evandromck&layout=compact&theme=vision-friendly-dark" alt="Evandromck's most languages"/>
 </p>
 
