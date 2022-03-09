@@ -34,9 +34,9 @@ Atualmente estou me "atualizando" na área de desenvolvimento.Quando não está 
 
 
 
-- 💻 &nbsp; Java | C++ | JavaScript | CSS | HTML | TypeScript | NodeJs | 
-- 🛢 &nbsp; MySQL | Firebase | Insomnia.
-- 🔧 &nbsp; Visual Studio code | Git
+- 💻 &nbsp; Java | C++ | JavaScript | CSS | HTML | TypeScript | NodeJs | PhP | 
+- 🛢 &nbsp; MySQL | Firebase | Insomnia | Postgresql 
+
 
 
 
