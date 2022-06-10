@@ -7,7 +7,7 @@
 
 ### About me
 <h1>Developer Front end & Back end</h1>
-Atualmente estou me "atualizando" na área de desenvolvimento.Quando não está trabalhando, é jogador de CSGO. Até passou em uma peneira do Flamengo, mas preferiu fazer faculdade de engenharia.
+Atualmente estou me "atualizando" na área de desenvolvimento. Quando não está trabalhando, é jogador de CSGO. Até passou em uma peneira do Flamengo, mas preferiu fazer faculdade de engenharia.
 
 
 ![image](https://user-images.githubusercontent.com/93783509/140577739-c86b50d1-9ae9-4662-a67c-6035d14c9b0b.png)
