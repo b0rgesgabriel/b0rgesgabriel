@@ -23,10 +23,10 @@ Atualmente estou me "atualizando" na área de desenvolvimento. Quando não está
 
 <h1>Developer Front end & Back end</h1>
 
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Android developer and front-end web developer.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
+- 🔭 &nbsp; Atualmente tentando me especializar em Flutter.
+- 🤔 &nbsp; Adoro explorar novas tecnologias e aprender mais sobre.
+- 💼 &nbsp; Costumo desenvolver mais no backend, mas também sei um pouco do frontend.
+- ☕ &nbsp; Acredito que uma boa xícara de café é a solução dos estresses diários.
 
 
 
@@ -34,8 +34,8 @@ Atualmente estou me "atualizando" na área de desenvolvimento. Quando não está
 
 
 
-- 💻 &nbsp; Java | C++ | JavaScript | CSS | HTML | TypeScript | NodeJs | PhP | 
-- 🛢 &nbsp; MySQL | Firebase | Insomnia | Postgresql 
+- 💻 &nbsp; NextJs | JavaScript | CSS | HTML | TypeScript | NodeJs | PhP | Prisma
+- 🛢 &nbsp; MySQL | Insomnia | Postgresql 
 
 
 
